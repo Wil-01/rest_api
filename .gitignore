@@ -1,0 +1,30 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Environnement virtuel
+env/
+venv/
+venv/todo/
+ENV/
+env.bak/
+venv.bak/
+
+# Fichiers de configuration de l'IDE
+.idea/
+.vscode/
+
+# Fichiers de configuration de l'éditeur
+*.swp
+*.swo
+
+# Fichiers de base de données
+*.sqlite3
+
+# Fichiers de log
+*.log
+
+# Dossiers de fichiers statiques collectés
+/staticfiles/
